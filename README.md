@@ -8,9 +8,13 @@ IT professional specializing in enterprise environments, network infrastructure,
 **Core Competencies & Technologies**
 * **Infrastructure & Support:** Active Directory, M365, SCCM, Windows 11, System Imaging, Hardware Provisioning
 * **Cloud & Administration:** Google Workspace Admin, DNS & Domain Management (Square), User Lifecycle Management
-* **Networking:** CompTIA Network+ Certified | CCNA (In Progress)
+* **Networking:** CCNA (In Progress)
 * **Web Development:** HTML, CSS, JavaScript, Firebase, Vercel
 * **Systems:** ServiceNow, Incident IQ, SAP Inventory Systems
+
+**Certifications**
+* **Google IT Support Specialist** (Includes: Technical Support Fundamentals, Network Support, Operating Systems, System Administration & IT Infrastructure)
+* **Microsoft Power Platform Fundamentals**
 
 **Featured Technical Projects & Deployments**
 * **Startup IT Infrastructure Build-Out:** Directed end-to-end IT operations for Blaire's Mobile Bar, managing all technical infrastructure including Google Workspace deployment, Square domain configuration, security protocols, and custom web analytics architecture.
