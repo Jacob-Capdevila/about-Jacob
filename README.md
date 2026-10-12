@@ -20,4 +20,4 @@ IT professional specializing in enterprise environments, network infrastructure,
 
 **Contact & Links**
 * **Email:** capdevilajacob@gmail.com
-* **LinkedIn:** [Insert LinkedIn URL]
+* **LinkedIn:** https://www.linkedin.com/in/jacobcapdevila
